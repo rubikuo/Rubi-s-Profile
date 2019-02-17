@@ -175,7 +175,7 @@ body {
   width: 50px;
   background-color: #0d11ec46;
   position: fixed;
-  height: 290;
+  height: 310;
   border-radius:0px 3px 3px 0px; 
 }
 
@@ -183,7 +183,7 @@ body {
 .sidebar {
   width: 40px;
 }
-.fa-linkedin, .fa-facebook-square, .fa-instagram, .fa-envelope {
+.fa-linkedin, .fa-facebook-square, .fa-instagram, .fa-envelope, .fa-github-square {
   font-size: 1.2rem;
   color: #fff;
 }
@@ -561,7 +561,7 @@ div.content {
     }
   }
 
-.fa-arrow-circle-up, .fa-linkedin, .fa-facebook-square, .fa-instagram, .fa-envelope {
+.fa-arrow-circle-up, .fa-linkedin, .fa-facebook-square, .fa-instagram, .fa-envelope, .fa-github-square {
   font-size: 1.5rem;
   color: #fff;
 }
